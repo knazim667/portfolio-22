@@ -1,0 +1,5 @@
+@use '../index';
+
+.ml-auto{
+    margin-left: index.$ml-auto;
+}
